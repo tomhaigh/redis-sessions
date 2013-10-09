@@ -14,7 +14,7 @@
 		"underscore": "*"
 	},
 	"optionalDependencies": {
-		"hiredis": "*",
+		"hiredis": "*"
 	},
 	"devDependencies": {
 		"mocha": "*",
